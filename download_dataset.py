@@ -8,6 +8,7 @@ DATASETS = {
     "UP": {
         "datakey": "Utopia",
         "labelkey": "Utopia_gt",
+        "type" : "",
         "files": [
             ("Utopia.mat", "https://download.scidb.cn/download?fileId=7f0b615fbf9cb869a9b11cfa76841887&path=/V2/Utopia.mat&fileName=Utopia.mat"),
             ("Utopia_gt.mat", "https://download.scidb.cn/download?fileId=74ad946c72ccb701903225ce7311f492&path=/V2/Utopia_gt.mat&fileName=Utopia_gt.mat"),
@@ -16,6 +17,7 @@ DATASETS = {
     "NF": {
         "datakey": "NiliFossae",
         "labelkey": "NiliFossae_gt",
+        "type" : "",
         "files": [
             ("NiliFossae.mat", "https://download.scidb.cn/download?fileId=ae13bf8fe050b5114fef0f1c03934fe4&path=/V2/NiliFossae.mat&fileName=NiliFossae.mat"),
             ("NiliFossae_gt.mat", "https://download.scidb.cn/download?fileId=2d45d15af1232726c00fea6108fa2eee&path=/V2/NiliFossae_gt.mat&fileName=NiliFossae_gt.mat"),
@@ -24,6 +26,7 @@ DATASETS = {
     "HC": {
         "datakey": "holden",
         "labelkey": "holden_gt",
+        "type" : "",
         "files": [
             ("Holden.mat", "https://download.scidb.cn/download?fileId=2cba3da0e9e8fd14705f67317bacde15&path=/V2/holden.mat&fileName=holden.mat"),
             ("Holden_gt.mat", "https://download.scidb.cn/download?fileId=a77d0577e822760e90614dc529af07c7&path=/V2/holden_gt.mat&fileName=holden_gt.mat"),
